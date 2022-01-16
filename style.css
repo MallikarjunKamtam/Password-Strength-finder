@@ -1,0 +1,92 @@
+body{
+  font-family: 'EB Garamond', serif;
+  background-color: #353b48;
+  justify-content: center;
+  text-align: center;
+  margin: 5%
+}
+
+.input-box{
+  width: 40%;
+  height: 10vh;
+  font-size: 2rem;
+  background-color: #2f3640;
+  color: #f5f6fa;
+  padding: 2%;
+  border: 2px solid #192a56
+}
+
+.indicator{
+  color: #f5f6fa;
+  font-size: 2.5rem;
+}
+
+
+
+/* .bar-indicator{
+height: 5px;
+border-radius: 10px;
+text-align: center;
+justify-content: center;
+
+}
+
+.bar-indicator-1{
+  width: (1150*0.1)px;
+  background-color: red;
+}
+
+.bar-indicator-2{
+  width: (1150*0.2)px;
+  background-color: #EC7063;
+}
+.bar-indicator-3{
+  width: (1150*0.3)px;
+  background-color: #EC7063;
+}
+.bar-indicator-4{
+  width: (1150*0.4)px;
+  background-color: #E67E22;
+}
+.bar-indicator-5{
+  width: (1150*0.5)px;
+  background-color: #F5B041;
+}
+.bar-indicator-6{
+  width: (1150*0.6)px;
+  background-color: yellow;
+}
+.bar-indicator-7{
+  width: (1150*0.7)px;
+  background-color: #f6e58d;
+}
+.bar-indicator-8{
+  width: (1150*0.8)px;
+  background-color: #badc58;
+}
+.bar-indicator-9{
+  width: (1150*0.9)px;
+  background-color: #6ab04c;
+}.bar-indicator-10{
+  width: (1150*1)px;
+  background-color: green;
+}
+ */
+
+
+
+
+
+
+
+.color-red {
+  border:3px solid red;
+}
+
+.color-yellow{
+  border: 3px solid yellow;
+}
+
+.color-green{
+  border: 3px solid green;
+}
